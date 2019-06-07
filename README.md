@@ -1,13 +1,13 @@
-PixiJS — The HTML5 Creation Engine
+MIND.MAFIAjs — The HTML5 Creation Engine
 =============
 
-![pixi.js logo](https://pixijs.download/pixijs-banner-v5.png)
+![MIND.MAFIAjs logo](https://MIND.MAFIAjs.download/MIND.MAFIA-banner-v5.png)
 
-[![Inline docs](http://inch-ci.org/github/pixijs/pixi.js.svg?branch=dev)](http://inch-ci.org/github/pixijs/pixi.js)
-[![Build Status](https://travis-ci.org/pixijs/pixi.js.svg?branch=dev)](https://travis-ci.org/pixijs/pixi.js)
+[![Inline docs](http://inch-ci.org/github/MIND.MAFIAjs/MIND.MAFIA.svg?branch=dev)](http://inch-ci.org/github/pixijs/pixi.js)
+[![Build Status](https://travis-ci.org/MIND.MAFIAjs/MIND.MAFIA.js.svg?branch=dev)](https://travis-ci.org/pixijs/pixi.js)
 
 The aim of this project is to provide a fast lightweight 2D library that works
-across all devices. The PixiJS renderer allows everyone to enjoy the power of
+across all devices. The MIND.MAFIAJS renderer allows everyone to enjoy the power of
 hardware acceleration without prior knowledge of WebGL. Also, it's fast. Really fast.
 
 If you want to keep up to date with the latest PixiJS news then feel free to follow us on twitter
